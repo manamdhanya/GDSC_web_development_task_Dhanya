@@ -21,3 +21,9 @@ Screenshot for home-mobile
 <br>
 <br>
 <img width="133" alt="Screenshot 2023-09-25 at 10 08 54 PM" src="https://github.com/manamdhanya/GDSC_web_development_task_Dhanya/assets/130916147/92474e8b-b709-4c3f-8a9b-9c318084b3fc">
+<br>
+<br>
+Screenshot for Desktop 
+<br>
+<br>
+<img width="404" alt="Screenshot 2023-09-25 at 11 05 10 PM" src="https://github.com/manamdhanya/GDSC_web_development_task_Dhanya/assets/130916147/fd3b1ec7-66cd-464c-87be-4bb4f1dd2f70">
