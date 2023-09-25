@@ -1,0 +1,404 @@
+
+#div1
+{
+	width: 375px;
+	height: 2165px;
+	top: -1079px;
+	left: 420px;
+	background-color: white;
+}
+#img1
+{
+	position: absolute;
+	width: 174.38px;
+    height: 180px;
+    top: 83px;
+    left: 97px;
+}
+#john
+{
+	position: absolute;
+	width: 290px;
+	height: 120px;
+	top: 260px;
+	left: 32px;
+	font-family: Heebo;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 40px;
+	letter-spacing: 0px;
+	text-align: center;
+	color:#21243D;
+
+}
+#para1
+{
+	position: absolute;
+	width: 298px;
+	height: 96px;
+	top: 415px;
+	left: 24px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: center;
+
+}
+#download1
+{
+	position: absolute;
+	width: 208px;
+	height: 47px;
+	top: 550px;
+	left: 84px;
+	border-radius: 2px;
+	background-color: #FF6464;
+}
+#download2
+{
+	position: absolute;
+	width: 167px;
+	height: 21px;
+	top: 555px;
+	left: 104px;
+	font-family: Heebo;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 29.38px;
+	color: #FFFFFF;
+	letter-spacing: 0px;
+	text-align: center;
+}
+#div2
+{
+	position: absolute;
+	width: 375px;
+	height: 647px;
+	top: 680px;
+	background-color: #EDF7FA;
+}
+#recent
+{
+	position: absolute;
+	width: 105px;
+	height: 60px;
+	top: 0px;
+	left: 135px;
+	font-family: Heebo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 60px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#box1
+{
+	position: absolute;
+	width: 354px;
+	height: 266px;
+	top: 56px;
+	left: 11px;
+	border-radius: 4px;
+	background-color: #FFFFFF;
+}
+#making
+{
+    position: absolute;
+    width: 327px;
+    height: 60px;
+    top: 56px;
+    left: 30px;
+    font-family: Heebo;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #21243D;
+}
+#date
+{
+	position: absolute;
+	width: 89px;
+	height: 24px;
+	top: 156px;
+	left: 30px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#line
+{
+    position: absolute;
+    width: 1px;
+    height: 18px;
+    background-color: black;
+    top: 159px;
+    left: 146px;
+    border: 0px;
+    color: black;
+}
+#design
+{
+	position: absolute;
+	width: 109px;
+	height: 24px;
+	top: 156px;
+	left: 167px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#para2
+{
+	position: absolute;
+	width: 280px;
+	height: 117px;
+	top: 190px;
+	left: 30px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#box2
+{
+	position: absolute;
+	width: 354px;
+	height: 254px;
+	top: 345px;
+	left: 11px;
+	border-radius: 4px;
+	background-color: #FFFFFF;	
+}
+#line5
+{
+	position: absolute;
+	width: 327px;
+	height: 60px;
+	top: 355px;
+	left: 30px;
+	font-family: Heebo;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 30px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#date1
+{
+	position: absolute;
+	width: 89px;
+	height: 24px;
+	top: 445px;
+	left: 30px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;	
+}
+#line10
+{
+	position: absolute;
+    width: 1px;
+    height: 18px;
+    background-color: black;
+    top: 445px;
+    left: 146px;
+    border: 0px;
+    color: black;
+}
+#design90
+{
+	position: absolute;
+	width: 109px;
+	height: 24px;
+	top: 445px;
+	left: 167px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#para10
+{
+	position: absolute;
+	width: 280px;
+	height: 117px;
+	top: 474px;
+	left: 30px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;	
+}
+#feature
+{
+	position: absolute;
+	width: 124px;
+	height: 60px;
+	top: 1316px;
+	left: 126px;
+	font-family: Heebo;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 60px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#img4
+{
+	position: absolute;
+	width: 339px;
+	height: 230px;
+	top: 1400px;
+	left: 13px;
+	border-radius: 6px;
+}
+#design88
+{
+	position: absolute;
+	width: 244px;
+	height: 30px;
+	top: 1620px;
+	left: 13px;
+	font-family: Heebo;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 30px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #21243D;
+}
+#box5
+{
+	position: absolute;
+	width: 62px;
+	height: 25px;
+	top: 1675px;
+	left: 13px;
+	border-radius: 16px;
+	background-color: #21243D;
+
+}
+#box9
+{
+	position: absolute;
+    width: 42px;
+    height: 60px;
+    top: 1655px;
+    left: 25px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: center;
+    color:white;
+}
+#dash
+{
+	position: absolute;
+    width: 374px;
+    height: 34px;
+    top: 1669px;
+    left: 90px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#8695A4;
+}
+#para66
+{
+	position: absolute;
+	width: 307px;
+	height: 96px;
+	top: 1710px;
+	left: 13px;
+	font-family: Heebo;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+}
+#fb
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	top: 2100px;
+	left: 51px;
+
+}
+#insta
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	top: 2100px;
+	left: 121px;
+}
+#group
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	top: 2100px;
+	left: 191px;
+}
+#linked
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	top: 2100px;
+	left: 251px;
+}
+#line11
+{
+	position: absolute;
+    width: 339px;
+    top: 1836px;
+    left: 13px;
+    border: 1px;
+    angle: -0 deg;
+    border:1px solid;
+    color: #E0E0E0;
+}
+#pngg
+{
+	position: absolute;
+	width: 220px;
+	height: 21px;
+	top: 2150px;
+	left: 55px;
+}

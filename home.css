@@ -1,0 +1,642 @@
+
+div {
+    width: 1152px;
+    height: auto;
+    top: -1079px;
+    left: -797px;
+    background-color: #FFFFFF;
+}
+#emoji {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 51px;
+    left: 148px;
+}
+#works {
+    /* Remove white-space property to allow text to wrap */
+    position: absolute;
+    width: 53px;
+    height: 43px;
+    top: 27px;
+    left: 856px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29.38px;
+    text-align: right;
+    color: #000000;
+}
+#blog
+{
+    position: absolute;
+    width: 106px;
+    height: 43px;
+    top: 27px;
+    left: 882px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: right; 
+}
+#contact
+{
+    position: absolute;
+    width: 71px;
+    height: 43px;
+    top: 27px;
+    left: 1021px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: right;
+}
+#john
+{
+    position: absolute;
+    width: 506px;
+    height: 105px;
+    top: 198px;
+    left: 148px;
+    font-family: Heebo;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#21243D;
+
+}
+#imag1
+{
+    position: absolute;
+    width: 243px;
+    height: 243px;
+    top: 225px;
+    left: 760px;
+}
+#content
+{
+    position: absolute;
+    width: 466px;
+    height: 66px;
+    top: 369px;
+    left: 148px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #21243D;
+
+}
+#dow
+{
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    top: 476px;
+    left: 168px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 0px;
+    color: white;
+    text-align: center;
+    background: #FF6464;
+    width: 208px;
+    height: 47px;
+    top: 467px;
+    left: 148px;
+    border-radius: 2px;
+
+}
+#div2
+{    width: 2052px;
+    height: 396px;
+    margin-top: 600px;
+    background-color:#EDF7FA;
+
+
+}
+#recent
+{
+    width: 199px;
+    height: 60px;
+    top: 622px;
+    left: 148px;
+    padding-left: 141px;
+    font-family: Heebo;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-color: #21243D;
+
+}
+#view
+{
+    position: absolute;
+    width: 208px;
+    height: 10px;
+    top: 592px;
+    left: 796px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: Heebo;
+    letter-spacing: 0px;
+    text-align: right;
+    color:#00A8CC;
+
+}
+#div3
+{
+    width: 418px;
+    height: 285px;
+    border:1px solid white ;
+    margin-top: 110px;
+    margin: 16px 141px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+
+
+}
+#making
+{
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    top: 688px;
+    left: 171px;
+    font-family: Heebo;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #21243D;
+
+}
+#date
+{
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    top: 790px;
+    left: 171px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#line
+{
+    position: absolute;
+    width: 1px;
+    height: 18px;
+    background-color: black;
+    top: 796px;
+    left: 301px;
+    border: 0px;
+    color: black;
+
+}
+#design
+{
+    position: absolute;
+    width: 239px;
+    height: 34px;
+    top: 790px;
+    left: 327px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#para1
+{
+    position: absolute;
+    width: 348px;
+    height: 107px;
+    top: 835px;
+    left: 171px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: justify;
+}
+#div4
+{
+    width: 418px;
+    height: 285px;
+    border:1px solid white ;
+    margin: -37px 435px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+}
+#create
+{
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    top: 688px;
+    left: 609px;
+    font-family: Heebo;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #21243D;
+
+}
+#date1
+{
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    top: 790px;
+    left: 609px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#line1
+{
+    position: absolute;
+    width: 1px;
+    height: 18px;
+    background-color: black;
+    top: 796px;
+    left: 750px;
+    border: 0px;
+    color: black; 
+}
+#figma
+{
+    position: absolute;
+    width: 239px;
+    height: 34px;
+    top: 790px;
+    left: 780px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#para2
+{
+    position: absolute;
+    width: 348px;
+    height: 107px;
+    top: 835px;
+    left: 609px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: justify;
+}
+#feature
+{
+    position: absolute;
+    width: 152px;
+    height: 60px;
+    top: 1006px;
+    left: 148px;
+    font-family: Heebo;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#img2
+{
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    top: 1088px;
+    left: 146px;
+    border-radius: 6px;
+
+}
+#design1
+{
+    position: absolute;
+    width: 305px;
+    height: 44px;
+    top: 1077px;
+    left: 410px;
+    font-family: Heebo;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#year1
+{
+    position: absolute;
+    width: 62px;
+    height: 25px;
+    top: 1141px;
+    left: 410px;
+    border-radius: 16px;
+    background-color: #142850;
+}
+#year
+{
+    position: absolute;
+    width: 42px;
+    height: 60px;
+    top: 1122px;
+    left: 420px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: white;
+}
+#dash
+{
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    top: 1134px;
+    left: 498px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #8695A4;
+
+}
+#para3
+{
+    position: absolute;
+    width: 524px;
+    height: 123px;
+    top: 1170px;
+    left: 410px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#21243D;
+}
+#line9
+{
+    position: absolute;
+    width: 858px;
+    top: 1273px;
+    left: 146px;
+    border: 1px;
+    angle: -0 deg;
+    color: black;
+    border:1px solid;
+    color:#E0E0E0;
+}
+#img3
+{
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    top: 1314px;
+    left: 146px;
+}
+#vib
+{
+    position: absolute;
+    width: 337px;
+    height: 44px;
+    top: 1312px;
+    left: 410px;
+    font-family: Heebo;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#21243D;
+}
+#year2
+{
+    position: absolute;
+    width: 62px;
+    height: 25px;
+    top: 1372px;
+    left: 410px;
+    border-radius: 16px;
+    background-color: #142850;
+}
+#year3
+{
+    position: absolute;
+    width: 42px;
+    height: 60px;
+    top: 1352px;
+    left: 420px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: center;
+    color:white;
+}
+#Illustration
+{
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    top: 1366px;
+    left: 498px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#8695A4;
+}
+#para4
+{
+    position: absolute;
+    width: 515px;
+    height: 54px;
+    top: 1405px;
+    left: 410px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23.4px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+#line10
+{
+   position: absolute;
+    width: 858px;
+    top: 1529px;
+    left: 146px;
+    border: 1px solid;
+    angle: -0 deg;
+    color:#E0E0E0;
+
+}
+#img5
+{
+    position: absolute;
+    width: 246px;
+    height: 184px;
+    top: 1570px;
+    left: 146px;
+    border-radius: 6px;
+
+}
+#day
+{
+    position: absolute;
+    width: 365px;
+    height: 44px;
+    top: 1560px;
+    left: 410px;
+    font-family: Heebo;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+#year9
+{
+    position: absolute;
+    width: 62px;
+    height: 25px;
+    top: 1622px;
+    left: 410px;
+    border-radius: 16px;
+    background-color: #142850;
+}
+#year10
+{
+    position: absolute;
+    width: 42px;
+    height: 60px;
+    top: 1603px;
+    left: 420px;
+    font-family: Heebo;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: center;
+    color:white;
+}
+#typo
+{
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    top: 1616px;
+    left: 498px;
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#8695A4;
+}
+#para10
+{
+    position: absolute;
+    width: 507px;
+    height: 93px;
+    top: 1656px;
+    left: 413px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #21243D;
+
+}
+#line12
+{
+    position: absolute;
+    width: 858px;
+    top: 1776px;
+    left: 146px;
+    border: 1px;
+    angle: -0 deg;
+    border:1px solid;
+    color: #E0E0E0;
+}
+#fb
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2000px;
+    left: 459px;
+}
+#insta
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2000px;
+    left: 524px;
+
+}
+#group
+{
+    position: absolute;
+    width: 36.92px;
+    height: 30px;
+    top: 2000px;
+    left: 589px;
+
+}
+#linked
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2000px;
+    left: 661px;
+
+}
