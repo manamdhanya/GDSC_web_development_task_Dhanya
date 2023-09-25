@@ -1,10 +1,21 @@
-
-div {
+body
+{
+    background-color: #1B3F54;
+}
+#div {
     width: 1152px;
     height: auto;
     top: -1079px;
     left: -797px;
-    background-color: #FFFFFF;
+    
+}
+#vector
+{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 51px;
+    left: 148px;   
 }
 #emoji {
     position: absolute;
@@ -12,6 +23,7 @@ div {
     height: 25px;
     top: 51px;
     left: 148px;
+
 }
 #works {
     /* Remove white-space property to allow text to wrap */
@@ -25,7 +37,8 @@ div {
     font-weight: 500;
     line-height: 29.38px;
     text-align: right;
-    color: #000000;
+    color:#D5E2F6;
+;
 }
 #blog
 {
@@ -40,6 +53,7 @@ div {
     line-height: 29px;
     letter-spacing: 0px;
     text-align: right; 
+    color: #D5E2F6;
 }
 #contact
 {
@@ -54,6 +68,7 @@ div {
     line-height: 29px;
     letter-spacing: 0px;
     text-align: right;
+    color: #D5E2F6;
 }
 #john
 {
@@ -67,8 +82,7 @@ div {
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 0px;
-    text-align: left;
-    color:#21243D;
+    color: #D5E2F6;
 
 }
 #imag1
@@ -92,7 +106,7 @@ div {
     line-height: 24px;
     letter-spacing: 0px;
     text-align: left;
-    color: #21243D;
+    color:#D5E2F6;;
 
 }
 #dow
@@ -107,7 +121,7 @@ div {
     font-weight: 500;
     line-height: 42px;
     letter-spacing: 0px;
-    color: white;
+    color:#1B3F54;
     text-align: center;
     background: #FF6464;
     width: 208px;
@@ -121,7 +135,7 @@ div {
 {    width: 2052px;
     height: 396px;
     margin-top: 600px;
-    background-color:#EDF7FA;
+    background-color:#396680;
 
 
 }
@@ -138,7 +152,7 @@ div {
     line-height: 60px;
     letter-spacing: 0px;
     text-align: left;
-    text-color: #21243D;
+    color: #D5E2F6;
 
 }
 #view
@@ -162,11 +176,11 @@ div {
 {
     width: 418px;
     height: 285px;
-    border:1px solid white ;
+    border:1px solid #1B3F54 ;
     margin-top: 110px;
     margin: 16px 141px;
-    border-radius: 4px;
-    background-color: #FFFFFF;
+    border-radius: 0px;
+    background-color: #1B3F54;
 
 
 }
@@ -183,7 +197,8 @@ div {
     line-height: 38px;
     letter-spacing: 0px;
     text-align: left;
-    color: #21243D;
+    color:#D5E2F6;
+;
 
 }
 #date
@@ -199,18 +214,18 @@ div {
     line-height: 26px;
     letter-spacing: 0px;
     text-align: left;
+    color: #D5E2F6;
 }
 #line
 {
     position: absolute;
     width: 1px;
     height: 18px;
-    background-color: black;
+    background-color: #D5E2F6;;
     top: 796px;
     left: 301px;
     border: 0px;
-    color: black;
-
+    color: #D5E2F6;
 }
 #design
 {
@@ -225,6 +240,7 @@ div {
     line-height: 26px;
     letter-spacing: 0px;
     text-align: left;
+    color: #D5E2F6;
 }
 #para1
 {
@@ -239,15 +255,16 @@ div {
     line-height: 24px;
     letter-spacing: 0px;
     text-align: justify;
+    color: #D5E2F6;;
 }
 #div4
 {
     width: 418px;
     height: 285px;
-    border:1px solid white ;
+    border:1px solid #1B3F54 ;
     margin: -37px 435px;
     border-radius: 4px;
-    background-color: #FFFFFF;
+    background-color: #1B3F54;
 }
 #create
 {
@@ -262,7 +279,7 @@ div {
     line-height: 38px;
     letter-spacing: 0px;
     text-align: left;
-    color: #21243D;
+    color: #D5E2F6;
 
 }
 #date1
@@ -278,13 +295,14 @@ div {
     line-height: 26px;
     letter-spacing: 0px;
     text-align: left;
+    color: #D5E2F6;
 }
 #line1
 {
     position: absolute;
     width: 1px;
     height: 18px;
-    background-color: black;
+    background-color: #D5E2F6;
     top: 796px;
     left: 750px;
     border: 0px;
@@ -303,6 +321,7 @@ div {
     line-height: 26px;
     letter-spacing: 0px;
     text-align: left;
+    color: #D5E2F6;
 }
 #para2
 {
@@ -317,6 +336,7 @@ div {
     line-height: 24px;
     letter-spacing: 0px;
     text-align: justify;
+    color: #D5E2F6;
 }
 #feature
 {
@@ -331,6 +351,7 @@ div {
     line-height: 60px;
     letter-spacing: 0px;
     text-align: left;
+    color: #D5E2F6;
 }
 #img2
 {
@@ -355,6 +376,7 @@ div {
     line-height: 44px;
     letter-spacing: 0px;
     text-align: left;
+    color: #D5E2F6;
 }
 #year1
 {
@@ -364,7 +386,7 @@ div {
     top: 1141px;
     left: 410px;
     border-radius: 16px;
-    background-color: #142850;
+    background-color: #759DED;
 }
 #year
 {
@@ -379,7 +401,7 @@ div {
     line-height: 60px;
     letter-spacing: 0px;
     text-align: center;
-    color: white;
+    color: #1B3F54;
 }
 #dash
 {
@@ -394,7 +416,8 @@ div {
     line-height: 29px;
     letter-spacing: 0px;
     text-align: left;
-    color: #8695A4;
+    color: #A1D3E8;
+;
 
 }
 #para3
@@ -410,7 +433,8 @@ div {
     line-height: 22.4px;
     letter-spacing: 0px;
     text-align: left;
-    color:#21243D;
+    color:#D5E2F6;
+;
 }
 #line9
 {
@@ -445,7 +469,7 @@ div {
     line-height: 44px;
     letter-spacing: 0px;
     text-align: left;
-    color:#21243D;
+    color:#D5E2F6;
 }
 #year2
 {
@@ -455,7 +479,7 @@ div {
     top: 1372px;
     left: 410px;
     border-radius: 16px;
-    background-color: #142850;
+    background-color: #759DED;
 }
 #year3
 {
@@ -470,7 +494,7 @@ div {
     line-height: 60px;
     letter-spacing: 0px;
     text-align: center;
-    color:white;
+    color:#1B3F54;
 }
 #Illustration
 {
@@ -485,7 +509,7 @@ div {
     line-height: 29px;
     letter-spacing: 0px;
     text-align: left;
-    color:#8695A4;
+    color:#A1D3E8;
 }
 #para4
 {
@@ -500,7 +524,7 @@ div {
     line-height: 23.4px;
     letter-spacing: 0px;
     text-align: left;
-
+    color:#D5E2F6;
 }
 #line10
 {
@@ -536,7 +560,7 @@ div {
     line-height: 44px;
     letter-spacing: 0px;
     text-align: left;
-
+    color:#D5E2F6
 }
 #year9
 {
@@ -546,7 +570,7 @@ div {
     top: 1622px;
     left: 410px;
     border-radius: 16px;
-    background-color: #142850;
+    background-color: #759DED;
 }
 #year10
 {
@@ -561,7 +585,7 @@ div {
     line-height: 60px;
     letter-spacing: 0px;
     text-align: center;
-    color:white;
+    color:#1B3F54;
 }
 #typo
 {
@@ -576,7 +600,8 @@ div {
     line-height: 29px;
     letter-spacing: 0px;
     text-align: left;
-    color:#8695A4;
+    color:#A1D3E8;
+;
 }
 #para10
 {
@@ -591,7 +616,8 @@ div {
     line-height: 24px;
     letter-spacing: 0px;
     text-align: left;
-    color: #21243D;
+    color:#D5E2F6;
+;
 
 }
 #line12
